@@ -40,5 +40,5 @@ Documentation and examples for the 37-in-1 arduino sensor kit
 * KY-039 Detect the heartbeat module
 * KY-040 Rotary encoder module 
 
-## Refenrences
+## References
 * https://tkkrlab.nl/wiki/Arduino_37_sensors
