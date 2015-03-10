@@ -42,3 +42,4 @@ Documentation and examples for the 37-in-1 arduino sensor kit
 
 ## References
 * https://tkkrlab.nl/wiki/Arduino_37_sensors
+* http://www.linksprite.com/wiki/index.php5?title=Advanced_Sensors_Kit_for_Arduino
